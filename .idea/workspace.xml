@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f7b5bcf-b1c6-4902-8471-38de3fdbc629" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JuegodeMinas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Juego/JuegoDeMinas.java" afterDir="false" />
+    <list default="true" id="8f7b5bcf-b1c6-4902-8471-38de3fdbc629" name="Changes" comment="juego version 1">
+      <change beforePath="$PROJECT_DIR$/src/Juego/JuegoDeMinas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Juego/JuegoDeMinas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +56,16 @@
       <workItem from="1680667717602" duration="345000" />
       <workItem from="1680668114274" duration="225000" />
       <workItem from="1680758069812" duration="45000" />
+      <workItem from="1681099314783" duration="739000" />
     </task>
+    <task id="LOCAL-00001" summary="juego version 1">
+      <created>1681100269887</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681100269887</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,5 +81,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="juego version 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="juego version 1" />
   </component>
 </project>

@@ -11,6 +11,8 @@ public class JuegoDeMinas {
         System.out.println("Bienvenido al juego de minas!");
         System.out.println("Selecciona una dificultad (1: Fácil, 2: Medio, 3: Difícil):");
 
+        //Seleccione la dificultad
+
         int dificultad = scanner.nextInt();
         int numMinas = 10;
 
@@ -75,6 +77,7 @@ public class JuegoDeMinas {
         mostrarTablero(tablero);
     }
 
+    //muestro tablero y donde estan las minas de las bombas
     private static void mostrarTablero(boolean[][] tablero) {
         for (int i = 0; i < tablero.length; i++) {
             for (int j = 0; j < tablero[i].length; j++) {
